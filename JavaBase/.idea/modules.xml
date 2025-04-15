@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java01/Java01.iml" filepath="$PROJECT_DIR$/Java01/Java01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java02/Java02.iml" filepath="$PROJECT_DIR$/Java02/Java02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java03/Java03.iml" filepath="$PROJECT_DIR$/Java03/Java03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase.iml" filepath="$PROJECT_DIR$/JavaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaTest/JavaTest.iml" filepath="$PROJECT_DIR$/../JavaTest/JavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaTest/com.leilei.Tets02/com.leilei.Tets02.iml" filepath="$PROJECT_DIR$/../JavaTest/com.leilei.Tets02/com.leilei.Tets02.iml" />
+    </modules>
+  </component>
+</project>

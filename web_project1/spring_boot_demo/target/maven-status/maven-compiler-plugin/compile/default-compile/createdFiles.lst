@@ -1,0 +1,8 @@
+org\example\pojo\Result.class
+org\example\pojo\User.class
+org\example\controller\HelloController.class
+org\example\dao\UserDao.class
+org\example\server\Imp\UserSeverImp.class
+org\example\server\UserServer.class
+org\example\SpringBootDemoApplication.class
+org\example\dao\Imp\UserDaoImp.class
